@@ -1,4 +1,4 @@
-let arr = [3, 4, 5, 11, 23, 65, 81, 22, 78];
+let arr = [3, 4, 5, 11, 23, 65, 2, 81, 22, 78];
 
 function checkPrime(number) {
   if (number <= 1) {

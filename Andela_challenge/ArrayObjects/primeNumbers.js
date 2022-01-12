@@ -17,7 +17,6 @@ arr.forEach((element) => {
   const isPrime = checkPrime(element);
   if (isPrime) {
     return primeArray.push(element);
-    // console.log(`${element} is a prime number`);
   } else {
     return false;
   }
